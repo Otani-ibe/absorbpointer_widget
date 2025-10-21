@@ -54,4 +54,4 @@ Used to disable buttons, forms, or sections of an app during loading or processi
 
 Here’s what the final UI looks like:
 
-![App Screenshot](https://github.com/Otani-ibe/absorbpointer_widget/blob/main/assets/Screenshot.png)
+![App Screenshot](![AbsorbPointer Demo App Screenshot](https://raw.githubusercontent.com/Otani-ibe/absorbpointer_widget/main/assets/screenshot.png)

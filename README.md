@@ -48,10 +48,3 @@ Used to disable buttons, forms, or sections of an app during loading or processi
 | `absorbing`         | A boolean that determines whether to block touch events.                                  | When `true`, all touches are ignored. When `false`, user input works normally.   |
 | `child`             | The widget subtree wrapped inside AbsorbPointer.                                          | Wraps the form and button in this demo.                                          |
 | `ignoringSemantics` | Determines whether to exclude the widget from the semantics tree for accessibility tools. | Set to `false` so screen readers still recognize the button while it’s disabled. |
-
----
-## Screenshot
-
-Here’s what the final UI looks like:
-
-![App Screenshot](![AbsorbPointer Demo App Screenshot](https://raw.githubusercontent.com/Otani-ibe/absorbpointer_widget/main/assets/Screenshot.png)

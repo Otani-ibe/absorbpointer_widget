@@ -54,4 +54,4 @@ Used to disable buttons, forms, or sections of an app during loading or processi
 
 Here’s what the final UI looks like:
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/Screenshot.png)

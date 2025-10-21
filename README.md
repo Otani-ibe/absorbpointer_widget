@@ -50,8 +50,8 @@ Used to disable buttons, forms, or sections of an app during loading or processi
 | `ignoringSemantics` | Determines whether to exclude the widget from the semantics tree for accessibility tools. | Set to `false` so screen readers still recognize the button while it’s disabled. |
 
 ---
-## 🖼️ Screenshot
+## Screenshot
 
 Here’s what the final UI looks like:
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/Screenshot.png)
